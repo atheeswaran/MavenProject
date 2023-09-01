@@ -377,3 +377,9 @@
 2023-09-01 14:38:39,733 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-09-01 14:38:39,748 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Athee\Projects\productservices\src\main\resources
 2023-09-01 14:38:39,749 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-01 14:38:39,749 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Athee\Projects\productservices\src\test\resources
+2023-09-01 15:31:07,798 [Worker-60: Launching Executing install in C__Users_Athee_Projects_productservices] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Athee\Projects\productservices
+2023-09-01 15:31:07,798 [Worker-60: Launching Executing install in C__Users_Athee_Projects_productservices] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-09-01 15:31:10,776 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-09-01 15:31:10,793 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Athee\Projects\productservices\src\main\resources
+2023-09-01 15:31:10,797 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
